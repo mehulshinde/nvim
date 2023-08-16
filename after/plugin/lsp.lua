@@ -4,7 +4,6 @@ lsp.preset("recommended")
 
 lsp.ensure_installed({
 	'ruby_ls',
-	'tsserver',
 	'rust_analyzer',
 })
 
